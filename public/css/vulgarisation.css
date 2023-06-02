@@ -1,0 +1,111 @@
+@font-face {
+    font-family : "Louis George Café";
+    src: url("./Polices/Louis\ George\ Cafe.ttf")
+
+}
+
+body {
+    font-family : 'Louis George Café';
+    margin : 0;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    top: 16vh; 
+    justify-content: center;
+}
+
+.ingredients {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    top: 10vh;
+    height: 120px ;
+    width: 225px;
+    background-color: white;
+    border: solid 3px;
+    border-color: black;
+    border-radius: 3px;
+    left: 84vh;
+    padding-right: 5vh;
+}
+
+#titre2 {
+    top: 7vh;
+}
+
+.case1 {
+    display: flex;
+    top: 18vh;
+    align-content: center;
+    justify-content: center;
+    font-size: 125%;
+}
+
+.case2 {
+    display: flex;
+    top: 38vh;
+    align-content: center;
+    justify-content: center;
+    font-size: 125%;
+}
+
+.case3 {
+    display: flex;
+    top: 68vh;
+    align-content: center;
+    justify-content: center;
+    font-size: 125%;
+}
+
+#malt {
+    height: 17%;
+    width: 17%;
+    border: 4px solid black;
+    border-radius: 2px;
+    top: 21vh;
+    left: 66vh;
+}
+#germ {
+    height: 18%;
+    width: 18%;
+    border: 4px solid black;
+    border-radius: 2px;
+    top: 21vh;
+    left: 73vh;
+}
+
+#tour {
+    height: 18%;
+    width: 18%;
+    border: 4px solid black;
+    border-radius: 2px;
+    top: 57vh;
+    left: 65vh;
+}
+
+#pate {
+    height: 18%;
+    width: 18%;
+    border: 4px solid black;
+    border-radius: 2px;
+    top: 57vh;
+    left: 73vh;
+}
+
+#ferm {
+    border: 4px solid black;
+    height: 45%;
+    width: 45%;
+    border-radius: 2px;
+    top: 80vh;
+    left: 63vh;
+}
+
+

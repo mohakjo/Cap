@@ -1,0 +1,102 @@
+#Quisommesnous {
+    border-width:0px;
+    position:relative;
+    display:flex;
+    justify-content: space-around;
+    font-family:"Louis George Cafe Bold", "Louis George Cafe", sans-serif;
+    font-weight:700;
+    font-style:normal;
+    font-size:72px;
+    order: 1;
+
+  }
+  #presentation {
+    border-width:0px;
+    position:absolute;
+    left:265px;
+    top:691px;
+    width:1449px;
+    height:107px;
+    display:flex;
+    font-family:"Louis George Cafe", sans-serif;
+    font-weight:400;
+    font-style:normal;
+    font-size:48px;
+  }
+  
+#Formulaire{
+    font-size: 30px;
+    font-family:"Louis George Cafe", sans-serif;
+    align-items: center;
+    justify-content: center;
+    order: 2;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5%;
+    
+  }
+
+  #Form{
+    font-size: 30px;
+    font-family:"Louis George Cafe", sans-serif;
+    align-items: center;
+    justify-content: center;
+    order: 2;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+#formulaire h2{
+  font-size: 25em;
+}
+
+.btn {
+  font-family: 'Louis George Café', sans-serif;
+  font-size: 1em;
+  width: 12vw;
+  height: -6vh;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  background: #000000;
+  color: #fff;
+  border: 10px solid #000000;
+  border-radius: 40px;
+  box-shadow: 10px 10px 10px #eee;
+  text-shadow: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1%;
+  
+}
+
+.btn:hover {
+  background: #ffffff;
+  color: #000000;
+  border: 10px solid #eee;
+  border-radius: 40px;
+  box-shadow: 10px 10px 10px #eee;
+  text-shadow: none;
+}
+#submit{
+  display: flex;
+  order: 3;
+}
+#submit{
+  display: flex;
+  order: 4;
+}
+
+.btns{
+  display: flex;
+  list-style-type: none;
+  margin-left: 30%;
+  
+}
+
+button{
+  margin-top: 25%;
+}

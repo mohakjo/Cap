@@ -1,10 +1,22 @@
+@font-face {
+  font-family: 'Louis George Café';
+  src: url(/../public/font/Louis_George_Cafe.ttf);
+}
 
+
+body {
+  margin: 0;
+}
     header {
       background-color: #000000;
-      padding: 10px;
       display: flex;
       align-items: center;
       text-align: center;
+    }
+
+    header ul {
+      padding: 3%;
+      margin: 2%;
     }
 
     .logo img {
@@ -14,6 +26,7 @@
     nav ul {
         list-style-type: none;
         display: flex;
+        align-items: center;
   
         font-family: 'Louis George Café', sans-serif;
         font-size: 115%;
@@ -69,6 +82,8 @@
       display: flex;
       background-color: black;
       padding: 2%;
+  
+      
       }
     
       footer div {

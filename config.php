@@ -1,3 +1,3 @@
 <?php
 
-DEFINE('URL', 'http://localhost/pokemon/');
+DEFINE('URL', 'http://localhost/cap/');
