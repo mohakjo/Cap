@@ -2,9 +2,9 @@
 
 function getdbco(): PDO 
 {
-$dsn="mysql:host=localhost;dbname=cap;charset=utf8";
-$user="root";
-$pass="";
+$dsn="mysql:host=localhost;dbname=cdce5547_cap;charset=utf8";
+$user="cdce5547_sae";
+$pass="MMI4ever@senart";
 
     try{
 
