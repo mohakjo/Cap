@@ -2,6 +2,11 @@ body{
     margin: 0;
 }
 
+main p {
+  text-align: center;
+  font-family: 'Louis George Café', sans-serif;
+} 
+
 :past {
   display: flex;
   justify-content: center;
@@ -23,12 +28,9 @@ h1 {
     text-align: center;
 }
 
-video {
-	width: 50%;
-	height: auto;
-    margin-left: 25%;
+iframe {
     position: relative;
-
+  margin-bottom: 3%;
 }
 
 
@@ -96,6 +98,13 @@ video {
   text-decoration: none;
   flex-direction: column;
   display: flex;
+  }
+
+  main div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
   
   footer li{

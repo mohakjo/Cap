@@ -4,7 +4,7 @@
 
         <div class="ptite">
 
-          <img id="ptite" src="public/images/nos_bieres/img1.png">
+          <img id="ptite" src="public/images/Nos_bieres/img1.png">
 
           <ul1>
 
@@ -20,7 +20,7 @@
 
         <div class="ctt">
 
-          <img id="ctt" src="public/images/nos_bieres/img2.png">
+          <img id="ctt" src="public/images/Nos_bieres/img2.png">
 
           <ul2>
 
@@ -36,7 +36,7 @@
 
         <div class="spkh">
 
-          <img id="spkh" src="public/images/nos_bieres/img3.png">
+          <img id="spkh" src="public/images/Nos_bieres/img3.png">
 
           <ul3>
 
@@ -52,7 +52,7 @@
 
         <div class="lass">
 
-          <img id="lass" src="public/images/nos_bieres/img4.png">
+          <img id="lass" src="public/images/Nos_bieres/img4.png">
 
           <ul4>
 
@@ -68,7 +68,7 @@
 
         <div class="ays">
 
-          <img id="ays" src="public/images/nos_bieres/img5.png">
+          <img id="ays" src="public/images/Nos_bieres/img5.png">
 
           <ul4>
 

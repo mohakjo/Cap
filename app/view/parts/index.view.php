@@ -1,10 +1,9 @@
 
-<body>
+<main>
 <h1>Bienvenue chez Cap ?</h1>
-    <p>Découvrez notre catalogue de bières, nous sommes fiers de de vous offrir une expérience unique à partager alliant qualité et variété.</p>
-    <h1><strong>Notre spot publicitaire</strong></h1>
-    <video controls max-width="700" max-height="400">
-        <source src="public/images/Anim.mp4" />
-    </video>
-</body>
-</html>
+    <p>Découvrez notre catalogue de bières, nous sommes fiers de vous offrir une expérience unique à partager alliant qualité et variété.</p>
+    <div><h1><strong>Notre spot publicitaire</strong></h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/qmAmi05Xr4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</main>
+
