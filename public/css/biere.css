@@ -1,0 +1,59 @@
+main{
+    display: flex;
+}
+
+main img{
+    height:70vh;
+    margin-right: 5vw;
+    margin-left: 5vw;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Louis George Café';
+    font-size: 2em;
+}
+
+.droite {
+    margin-top: 20vh;
+    margin-right: 5vw;
+    list-style: none;
+}
+
+.gauche{
+    margin-top: 10vh;
+    margin-right: 20vw;
+    margin-left: 10vw;
+}
+
+
+.prix {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    padding: 0;
+}
+
+p {
+    font-family: 'Louis George Café';
+    font-size: 1.7em;
+}
+
+h3 {
+    font-family: 'Louis George Café', Bold;
+    font-size: 1.3em;
+}
+
+main li {
+    list-style-type: none;
+    font-family: 'Louis George Café';
+    font-size: 1.3em;
+}
+
+.prix li{
+    font-size: 1em
+}
+
+main ul {
+    padding: 0;
+}

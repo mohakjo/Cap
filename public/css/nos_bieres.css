@@ -1,0 +1,40 @@
+.biere img{
+    width: 15%;
+}
+
+.biere{
+    width: 32.9vw;
+    height: 30%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#bieres{
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3vh;
+}
+
+h2{
+    font-family: 'Louis George Café';
+    text-align: center;
+    margin-top: 5vh;
+    font-size: 4em;
+    margin-bottom: 0;
+}
+
+h4 {
+    font-family: 'Louis George Café';
+    font-size: 1.5em;
+}
+
+p {
+    font-family: 'Louis George Café';
+}

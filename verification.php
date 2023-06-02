@@ -10,7 +10,6 @@
 <body>
     <img src="public/images/LogoCapBlanc.png" alt="Logo">
     <h1>Êtes-vous majeur ?</h1>
-    <h2>Bienvenue sur le site de Cap</h2>
     <h3>Pour rentrer sur le site vous devez être majeur.</h3>
     <a href="index.php"><span>Oui</span></a>
     <a href="refus.php"><span>Non</span></a>
